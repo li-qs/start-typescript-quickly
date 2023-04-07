@@ -1,7 +1,3 @@
-# start-a-koa-server-quickly
+# start-typescript-quickly
 
-Start a koa server quickly.
-
-koa + typeorm + ioredis
-
-Just `git clone` and run it.
+Start typescript quickly.
